@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me Romanov</string>
+    <string name="name">Leonid Romanov</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">
+        Hello, my name is Leonid.
+        \n\n Mi chiamo Leonid.
+        \n\n I study mathematics, programming and Italian language.
+        \n\n Io studio matematica, programmazione e lingua Italiano.
+        \n\n I am a hockey and soccer fan.
+        \n\n Io sono un fan di hockey e calcio.
+        \n\n I play the guitar very well.
+        \n\n Io suono la chitarra molto bene.
+        \n\n I am a third year student at Smolensk State University.
+        \n\n Io sono uno studente del terzo anno alla Smolensk State University.
+        \n\n My favorite teams are Juventus Football Club (Turin) and Slavutich Hockey Club (Smolensk).
+        \n\n Le mie squadre preferite sono Juventus Football Club (Torino) e Slavutich Hockey Club (Smolensk).
+        \n\n
+        \n\n
+        \n\n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
